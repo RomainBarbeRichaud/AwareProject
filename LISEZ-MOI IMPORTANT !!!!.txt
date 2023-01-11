@@ -1,0 +1,12 @@
+Le fichier "aware" présent sur github ne possède que le code des pages de l'application
+car nous ne pouvons pas mettre le dossier complet de l'application ici (25Mo max tandis
+que l'application fait 300Mo. Si vous voulez lancer l'application, vous pouvez télécharger
+le code complet ici:
+
+
+https://www.dropbox.com/s/3nu5c8clsvsuq11/aware.zip?dl=0
+
+je vous transmettrai directement le fichier via un disque dur pendant la soutenance.
+
+
+Merci de votre compréhension.
